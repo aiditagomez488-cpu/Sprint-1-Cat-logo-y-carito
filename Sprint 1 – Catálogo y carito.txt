@@ -1,0 +1,17 @@
+Sprint 1 – Catálogo y carito
+Duración: 5 días planificados (Sprint 1)
+Objetivos generales: Diseñar la base del sitio web y el catálogo principal, así como simular la estructura del carrito de compras. Este sprint sentó los cimientos de EcoModa, estableciendo la identidad visual y funcional del proyecto.
+
+    ID			   Tarea			 Rol	Estimado	 	    Estado				      Comentario
+S1 – T1		Maquetar página del catálogo	Front	6 horas		Completado	Se definió a estructura HTML principal y la cuadrícula de productos.
+S1 – T2		Programar carga de productos 
+		desde BD (simulada)		Back	8 horas		Completado	Se simularon los productos con HTML y JSON local.
+S1 – T3		Crear botón “Agregar al carrito”	Front	4 horas		Completado	Se añadió un botón funcional a nivel de interfaz
+S1 – T4		Programar lógica del carrito		Back	10 horas		En progreso	La lógica completa requiere conexión real con base de datos.
+S1 – T5		Pruebas de integración catálogo	QA	4 horas		Completado	Pruebas visibles y responsivas en diferentes dispositivos.
+
+Resultado: El catálogo quedó completamente maquetado y funcional desde la interfaz. Logré implementar un diseño limpio y amigable, con colores naturales que reflejan la identidad ecológica del proyecto. El carrito fue representado de manera visual y estructural, quedando pendiente la conexión con el backend.
+
+	Progreso estimado: 80%
+
+Reflexión: Este primer sprint fue esencial para dar vida a EcoModa. Fue la primera vez que sentí que el proyecto tomaba forma real. Aunque trabajé sola, traté de organizarme como si fuese un equipo: asignándome roles y tiempos. Comprendí la importancia de definir una base sólida y mantener un estilo visual coherente desde el inicio.
